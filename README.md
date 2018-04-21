@@ -1,2 +1,2 @@
 # Blogen
-Blogen Admin UI using Bootstrap 4
+Blog Admin UI using Bootstrap 4
